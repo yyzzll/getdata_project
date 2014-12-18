@@ -23,7 +23,8 @@ How R script works
 
 Other information
 ---------------
-* The code to read the `tiny_data.txt` from coursera course project submission into R is: `tidy<-read.table("tidy_data.txt", header=TRUE, sep = "\t")`
+* The code to read the `tiny_data.txt` from coursera course project submission into R is:
+`tidy<-read.table("tidy_data.txt", header=TRUE, sep = "\t")`
 
 Packages needed for the R script
 --------------
